@@ -21,6 +21,8 @@ With a global presence, the company has expanded its business operations signifi
 ### The Top 10 Products
 * I identified the top 10 products with the highest percentage increase in net sales from 2020 to 2021.
 * 📈 These products played a pivotal role in driving revenue growth and making a significant impact on the company's success.
+![top10prod](https://github.com/anushkasingh2306/Sales_Finance_Analytics/assets/123302995/f362f98c-1ff3-4ed3-8570-e8f510706949)
+
 ### Division Report
 * I generated a comprehensive report that showcased the net sales data for 2020 and 2021, along with the growth percentage.
 * 📊 This report helped visualize the performance of different divisions within the organization, providing crucial insights for strategic decision-making.
