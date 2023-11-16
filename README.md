@@ -26,6 +26,9 @@ With a global presence, the company has expanded its business operations signifi
 ### Division Report
 * I generated a comprehensive report that showcased the net sales data for 2020 and 2021, along with the growth percentage.
 * 📊 This report helped visualize the performance of different divisions within the organization, providing crucial insights for strategic decision-making.
+![division](https://github.com/anushkasingh2306/Sales_Finance_Analytics/assets/123302995/ab11b9d7-c649-43ad-9c8f-293576db1b3a)
+
+  
 ### Quantity Sold Rankings
 * By examining the quantity sold, I determined the top 5 and bottom 5 products in terms of sales volume.
 * 📉 These rankings shed light on the key drivers of sales and allowed us to identify opportunities for improvement.
