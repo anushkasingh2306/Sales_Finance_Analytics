@@ -72,7 +72,9 @@ With a global presence, the company has expanded its business operations signifi
 ### Customer Net Sales Performance
 * The insights gained from the analysis of customer net sales performance indicate that the company's sales efforts have been effective in meeting or exceeding its predetermined targets.
 * This suggests that the company's sales team is adept at identifying and capitalizing on opportunities, and its products or services are resonating well with customers.
+  
 ![customerns1](https://github.com/anushkasingh2306/Sales_Finance_Analytics/assets/123302995/f10f1b9b-c736-442f-85a9-b54648d32cd9)
+
 ![customerns2](https://github.com/anushkasingh2306/Sales_Finance_Analytics/assets/123302995/4827416c-01e4-4bb6-94ed-1488b4fd36a9)
   
 ### Market Performance vs Target
